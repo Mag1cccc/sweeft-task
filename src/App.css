@@ -1,0 +1,31 @@
+.app {
+  max-width: 1200px;
+  border: 1px solid rgb(204, 204, 204);
+  padding: 24px;
+  margin: 0px auto;
+}
+
+select {
+  width: 100%;
+  border: 1px solid rgb(204, 204, 204);
+  border-radius: 4px;
+  padding: 16.5px 14px;
+  cursor: pointer;
+  outline: none;
+}
+
+select:hover {
+  border: 1px solid black;
+}
+
+.paragraph {
+  display: flex;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 18px;
+  margin-top: 24px;
+  padding-bottom: 20px;
+}
+
+.mr-40 {
+  margin-right: 40px;
+}
